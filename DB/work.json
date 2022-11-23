@@ -1,0 +1,110 @@
+[
+    {
+        "jym_workImgLink":"메인이미지",
+        "jym_Thumbs" : "썸네일",
+        "jym_workImgTitle":"메인타이틀",
+        "jym_workImgDesc":"설명",
+        "jym_workBtnText":"링크태크 이름",
+        "jym_workBtnLink":"링크값",
+        "jym_workBtnTarget":"",
+        "jym_workClass":"",
+        "jym_snsLink":[
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "깃허브",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "피그마",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "노션",
+                "jym_snsClass" : ""
+            }
+        ]
+    },
+    {
+        "jym_workImgLink":"메인이미지",
+        "jym_Thumbs" : "썸네일",
+        "jym_workImgTitle":"메인타이틀",
+        "jym_workImgDesc":"설명",
+        "jym_workBtnText":"링크태크 이름",
+        "jym_workBtnLink":"링크값",
+        "jym_workBtnTarget":"",
+        "jym_workClass":"",
+        "jym_snsLink":[
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "깃허브",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "피그마",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "노션",
+                "jym_snsClass" : ""
+            }
+        ]
+    },
+    {
+        "jym_workImgLink":"메인이미지",
+        "jym_Thumbs" : "썸네일",
+        "jym_workImgTitle":"메인타이틀",
+        "jym_workImgDesc":"설명",
+        "jym_workBtnText":"링크태크 이름",
+        "jym_workBtnLink":"링크값",
+        "jym_workBtnTarget":"",
+        "jym_workClass":"",
+        "jym_snsLink":[
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "깃허브",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "피그마",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "노션",
+                "jym_snsClass" : ""
+            }
+        ]
+    },
+    {
+        "jym_workImgLink":"메인이미지",
+        "jym_workImgTitle":"메인타이틀",
+        "jym_workImgDesc":"설명",
+        "jym_workBtnText":"링크태크 이름",
+        "jym_workBtnLink":"링크값",
+        "jym_workBtnTarget":"",
+        "jym_workClass":"",
+        "jym_snsLink":[
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "깃허브",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "피그마",
+                "jym_snsClass" : ""
+            },
+            {
+                "jym_Link" : "",
+                "jym_snsName" : "노션",
+                "jym_snsClass" : ""
+            }
+        ]
+    }
+
+]

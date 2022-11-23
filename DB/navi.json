@@ -1,0 +1,28 @@
+[   
+    {
+        "jym_navTitle":"ABOUTME",
+        "jym_navLink":"#about",
+        "jym_navClass":"scrollPage, text-white",
+        "jym_isNav": true
+    },
+   
+    {
+        "jym_navTitle":"Work",
+        "jym_navLink":"#work",
+        "jym_navClass":"scrollPage, text-white",
+        "jym_isNav": true
+    },
+    {
+        "jym_navTitle":"Interview",
+        "jym_navLink":"#interview",
+        "jym_navClass":"scrollPage, text-white",
+        "jym_isNav": true
+    },
+    {
+        "jym_navTitle":"Contact",
+        "jym_navLink":"#contact",
+        "jym_navClass":"scrollPage, text-white",
+        "jym_isNav": true
+    }
+
+]

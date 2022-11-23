@@ -1,0 +1,32 @@
+[   
+    {
+        "jym_snsTitle":"Git",
+        "jym_snsLink":"#",
+        "navTarget":"_blank",
+        "jym_snsClass":"fa-brands fa-github",
+        "jym_isSns": true
+    },
+   
+    {
+        "jym_snsTitle":"Notion",
+        "jym_snsLink":"#",
+        "navTarget":"_blank",
+        "jym_snsClass":"fa-solid fa-cube",
+        "jym_isSns": true
+    },
+    {
+        "jym_snsTitle":"Insta",
+        "jym_snsLink":"#",
+        "navTarget":"_blank",
+        "jym_snsClass":"fa-brands fa-instagram",
+        "jym_isSns": true
+    },
+    {
+        "jym_snsTitle":"Kakao",
+        "jym_snsLink":"",
+        "navTarget":"_blank",
+        "jym_snsClass":"xi-kakaotalk",
+        "jym_isSns": true
+    }
+
+]
